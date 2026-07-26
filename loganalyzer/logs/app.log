@@ -1,0 +1,20 @@
+2026-07-14 09:00:12 INFO Application started
+2026-07-14 09:00:25 INFO User 'john' logged in
+2026-07-14 09:01:10 WARNING CPU usage reached 85%
+2026-07-14 09:01:35 INFO Payment request received
+2026-07-14 09:01:42 ERROR Database connection failed
+2026-07-14 09:01:50 INFO Retrying database connection
+2026-07-14 09:02:05 ERROR Database connection failed
+2026-07-14 09:02:30 INFO Database connection established
+2026-07-14 09:03:10 WARNING Memory usage reached 90%
+2026-07-14 09:03:45 INFO User 'alice' logged in
+2026-07-14 09:04:12 ERROR API timeout while fetching orders
+2026-07-14 09:04:45 INFO Order processed successfully
+2026-07-14 09:05:20 CRITICAL Payment service unavailable
+2026-07-14 09:05:45 INFO Service restart initiated
+2026-07-14 09:06:10 INFO Service restarted successfully
+2026-07-14 09:06:50 WARNING Disk usage reached 92%
+2026-07-14 09:07:25 ERROR Failed to send email notification
+2026-07-14 09:07:50 INFO Email queued for retry
+2026-07-14 09:08:30 INFO User 'john' logged out
+2026-07-14 09:09:00 INFO Application shutdown

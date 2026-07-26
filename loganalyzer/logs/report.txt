@@ -1,0 +1,5 @@
+----report-------
+INFO     : 12
+WARNING  : 3
+error    : 4
+CRITICAL  :1

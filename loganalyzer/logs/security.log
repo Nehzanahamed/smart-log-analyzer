@@ -1,0 +1,4 @@
+2026-07-26 12:00:05 INFO Security scan started
+2026-07-26 12:02:18 WARNING Multiple failed login attempts
+2026-07-26 12:03:40 CRITICAL Unauthorized access detected
+2026-07-26 12:05:12 INFO Security scan completed
